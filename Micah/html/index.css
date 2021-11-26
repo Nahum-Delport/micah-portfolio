@@ -1,0 +1,13 @@
+#Title {
+    font-size: xx-large;
+}
+.contentImg {
+    max-width: 640px;
+    height: 100%;
+}
+/* #enlargeImg {
+    transition: width 2s;
+}
+#enlargeImg:hover {
+    width: 700px;
+} */
